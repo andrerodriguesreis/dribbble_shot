@@ -4,12 +4,12 @@ Aplicação web contendo as principais funcionalidades do website dribbble.com u
 
 
 ## Tecnologias
-=====================
+
 Angular 1.5.x (scaffolding Angular seed https://github.com/angular/angular-seed )
 
 ## Rodando a aplicação
 ```
-npm install
+npm start
 ```
 
 ## Rodando teste unitário
